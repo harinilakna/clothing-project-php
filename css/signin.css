@@ -1,0 +1,17 @@
+.inner{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	
+	
+}
+#welcome{
+	font-size:30em;
+text-align:center;}
+
+
+#para{
+	text-align:center;
+	margin-top:20px;
+}
+
